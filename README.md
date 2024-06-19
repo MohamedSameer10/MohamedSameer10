@@ -5,8 +5,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamedsameers/)
 
 ### Technologies that I Use
-![HTML](https://img.icons8.com/color/48/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/css3.png) ![JAVASCRIPT](https://img.icons8.com/fluency/48/javascript.png) ![JAVA]([https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)
-![MYSQL](https://img.icons8.com/fluency/48/mysql-logo.png](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
+![HTML](https://img.icons8.com/color/48/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/css3.png) ![JAVASCRIPT](https://img.icons8.com/fluency/48/javascript.png) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MYSQL](https://img.icons8.com/fluency/48/mysql-logo.png)
 
 ### IDE's and Tools that I Use
 ![VSCODE](https://img.icons8.com/color/48/visual-studio-code-2019.png) ![INTELLIJ](https://img.icons8.com/color/48/intellij-idea.png)
